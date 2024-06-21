@@ -1,0 +1,32 @@
+{
+  "moduleURL": "chat",
+  "moduleName": "chat",
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "demo"
+  },
+
+  "gateway": {
+    "rooturl": "/api/chat/"
+  },
+  "security": {
+    "enabled": false,
+    "entities": {
+      "location":"50fe4047-326d-11ed-bc9e-0a621a0f48af",
+      "business-unit":"7f1a559f-326d-11ed-bc9e-0a621a0f48af" 
+    },
+    "defaultGrants": [],
+    "grants": []
+  },
+  "URL": {
+    "supportEmail": ""
+  },
+  "SMTP": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "senderEmail": ""
+  }
+}
