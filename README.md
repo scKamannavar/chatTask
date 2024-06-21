@@ -53,7 +53,7 @@ Frontend Setup
 
 1.  **Navigate to the frontend directory: [Open a new terminal for convinence]**
    
-          cd chatTask/client
+        cd ../client
     
 3.  **Install dependencies:**
     
@@ -63,6 +63,8 @@ Frontend Setup
     
         npm run dev
     
+5.  **Click on the link**
+
 
 Frontend Code Logic
 -------------------
