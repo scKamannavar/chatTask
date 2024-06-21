@@ -51,15 +51,15 @@ Backend Code Logic
 Frontend Setup
 --------------
 
-1.  **Navigate to the frontend directory:**
+1.  **Navigate to the frontend directory: [Open a new terminal for convinence]**
+   
+          cd chatTask/client
     
-        cd chatTask/client
-    
-2.  **Install dependencies:**
+3.  **Install dependencies:**
     
         npm install
     
-3.  **Run the frontend server:**
+4.  **Run the frontend server:**
     
         npm run dev
     
